@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 这个是按钮在白天的背景颜色 暂时没用 -->
+    <color name="night_color">#313035</color>
+    <color name="light_color">#F3F3F3</color>
+    <color name="night_item_color">#3D3E42</color>
+    <color name="light_item_color">#ffffff</color>
+    <color name="night_text_color">#AAABAF</color>
+    <color name="night_text_color_desc">#838489</color>
+    <color name="light_text_color">#3E3C3D</color>
+    <color name="light_text_color_desc">#A2A2A2</color>
+    <color name="light_line_color">#D4D4D4</color>
+    <color name="night_line_color">#25262B</color>
+    <color name="light_top_text_color">#E3F9FE</color>
+    <color name="night_top_text_color">#8B8C90</color>
+    <color name="light_top_bg_color">#2C8AD2</color>
+    <color name="night_top_bg_color">#27282D</color>
+    <color name="light_tab_bg_color">#F3F3F3</color>
+    <color name="night_tab_bg_color">#2e2f32</color>
+    <color name="right_menu_font_check">#ffffff</color>
+    <color name="night_tab_bg_focus_color">#3D3E42</color>
+
+    <!-- 不知道用没用过 -->
+    <color name="MySms_Top_focus">#ffffff</color>
+    <color name="MySms_Top_normal">#f3f3f3</color>
+
+    <!-- 通用 -->
+    <color name="et_txt">#E4E4E4</color>
+    <color name="validate_perss_later">#cccccc</color>
+    <color name="border_solid">#FFFFFF</color>
+    <color name="border_stroke">#E7E7E7</color>
+    <color name="type_border_solid">#E8F2FE</color>
+    <color name="type_border_stroke">#E7E7E7</color>
+    <color name="btn_day_txt_color">#ffffff</color>
+    <color name="btn_night_txt_color">#ffffff</color>
+
+    <!-- 登陆  注册 -->
+    <color name="link_txt">#769CC8</color>
+    <color name="btn_presse">#2E5DD3</color>
+    <color name="btn_default">#2D89D2</color>
+    <color name="round_outside_color">#FFFEFF</color>
+    <color name="round_inside_color">#FFFEFF</color>
+    <color name="btn_usercenter_border_default">#DFDFDF</color>
+    <color name="btn_usercenter_solid_default">#FFFFFF</color>
+    <color name="btn_usercenter_border_presse">#DFDFDF</color>
+    <color name="btn_usercenter_solid_presse">#ECE8E4</color>
+
+    <!-- 用户中心 -->
+    <color name="btn_usercenter_color">#555555</color>
+    <color name="layout_default_color">#FFFFFF</color>
+    <color name="layout_persse_color">#E8F2FE</color>
+    <color name="list_divider_color">#E5E5E5</color>
+    <color name="listview_bg_color">#ffffff</color>
+
+    <!-- 用户设置 -->
+    <color name="line_color">#DCDCDC</color>
+    <color name="setting_btn_exit">#FC8E43</color>
+    <color name="setting_btn_exit_night">#9D9FA3</color>
+    <color name="txt_feedback_title_setting">#A2A2A2</color>
+    <color name="day_txt_cache">#D4D4D4</color>
+    <color name="night_txt_cache">#7B7B7B</color>
+    
+    <!-- 透明 Activity色 -->
+    <color name="transparent">#9000</color>
+
+</resources>
